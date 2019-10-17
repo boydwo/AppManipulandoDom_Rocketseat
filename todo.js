@@ -29,8 +29,8 @@ function renderTodos() {
 
     todoElement.appendChild(todoText); // adiciona o texto na 'li'
     todoElement.appendChild(linkElement);
-
-    listElement.appendChild(todoElement); // adicionando os elemntos na 'ul'
+    // adicionando os elemntos na 'ul'
+    listElement.appendChild(todoElement);
   }
 }
 // chama a função para renderizar na tela
