@@ -4,7 +4,6 @@ var buttonElement = document.querySelector("#app button");
 
 var todos = [
   // array pra armazenar os dados
-  //TESTE TODO
   "Fazer café",
   "Estudar",
   "Acessar comunidade"
